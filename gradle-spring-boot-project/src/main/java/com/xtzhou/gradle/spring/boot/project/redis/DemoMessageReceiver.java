@@ -11,7 +11,7 @@ import java.util.concurrent.CountDownLatch;
  *
  */
 public class DemoMessageReceiver {
-    private static final Logger logger= LoggerFactory.getLogger(DemoMessageReceiver.class);
+    private static final Logger logger = LoggerFactory.getLogger(DemoMessageReceiver.class);
 
     private CountDownLatch latch;
 
